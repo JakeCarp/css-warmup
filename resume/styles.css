@@ -1,3 +1,25 @@
-#main-header {
+header {
+  background-color:lightseagreen;
+  text-align: center;
+  border: 10px double black;
+  
+}
+#my-name {
+  text-shadow:0px 1px black;
   color: red;
+}
+main {
+  background-color: lightseagreen;
+}
+main h1:hover{
+  color: red;
+}
+#contact {
+  color:whitesmoke;
+  border: dotted 10px black;
+  text-shadow: 0px 1px black;
+}
+li{
+  display: inline-flex;
+  margin-left: 20px;
 }
